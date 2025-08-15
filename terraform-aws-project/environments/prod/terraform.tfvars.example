@@ -1,0 +1,7 @@
+aws_account_id = "123456789012"
+prefix_list_name = "custom-prefix-list"
+max_entries      = 2
+cidr_blocks = [
+  "190.210.32.70/32",
+  "186.12.9.106/32"
+]
